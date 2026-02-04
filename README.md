@@ -42,6 +42,9 @@ A program:
 - OpenCV
 - EasyOCR
 - Tesseract OCR
+- PaddleOCR
+- KerasOCR (opcionális)
+- docTR (opcionális)
 - NumPy
 - Matplotlib
 
