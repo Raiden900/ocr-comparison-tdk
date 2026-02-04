@@ -1,9 +1,9 @@
 # ocr-comparison-tdk
-TDK/Gépi látás projekt: 5 OCR rendszer összehasonlítása dokumentumfotókon (iPhone fotók + nyilvános datasetek)
+Szövegfelismerő algoritmusok összehasonlító vizsgálata valós környezetben készült dokumentumképeken
 
 # OCR Comparison – TDK Project
 
-TDK / Gépi látás projekt célja különböző OCR rendszerek összehasonlítása valós környezetben készült dokumentumfotókon.
+Gépi látás projekt célja különböző OCR rendszerek összehasonlítása valós környezetben készült dokumentumfotókon.
 
 A projekt saját készítésű (telefonos) és nyilvános dataset képeken vizsgálja az OCR felismerés pontosságát.
 
