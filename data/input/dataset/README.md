@@ -1,1 +1,3 @@
-Public dataset images used for OCR benchmarking.
+# Dataset images
+
+Nyilvános datasetből származó dokumentumképek OCR benchmarking célokra.
