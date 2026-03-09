@@ -255,10 +255,15 @@ def ocr_doctr(img):
 
 
 # ============================================
-# TESZT
+# TESZT + MENTÉS
 # ============================================
 
-N=10
+N = 10
+
+output_dir = "emnist_results"
+os.makedirs(output_dir, exist_ok=True)
+
+results = []
 
 acc_easy=[]
 acc_tess=[]
@@ -278,16 +283,65 @@ for i in range(N):
 
     exp=normalize(expected)
 
+    sim_easy=similarity(exp,easy)
+    sim_tess=similarity(exp,tess)
+    sim_doctr=similarity(exp,doctr)
+
+    acc_easy.append(sim_easy)
+    acc_tess.append(sim_tess)
+    acc_doctr.append(sim_doctr)
+
+    # ----------------------------------------
+    # KÉP MENTÉS
+    # ----------------------------------------
+
+    img_name=f"sample_{i:03d}.png"
+
+    img_path=os.path.join(output_dir,img_name)
+
+    cv.imwrite(img_path,gray)
+
+    # ----------------------------------------
+    # EREDMÉNY LISTA
+    # ----------------------------------------
+
+    results.append({
+        "id":i,
+        "expected":exp,
+        "easyocr":easy,
+        "tesseract":tess,
+        "doctr":doctr,
+        "sim_easy":sim_easy,
+        "sim_tess":sim_tess,
+        "sim_doctr":sim_doctr,
+        "image":img_name
+    })
+
+    # ----------------------------------------
+    # KIÍRÁS
+    # ----------------------------------------
+
     print("\n==============================")
+    print("ID:",i)
     print("ELVÁRT:",exp)
     print("EasyOCR :",easy)
     print("Tesseract:",tess)
     print("docTR :",doctr)
 
-    acc_easy.append(similarity(exp,easy))
-    acc_tess.append(similarity(exp,tess))
-    acc_doctr.append(similarity(exp,doctr))
+    # ----------------------------------------
+    # KÉP MEGJELENÍTÉS
+    # ----------------------------------------
 
+    plt.figure(figsize=(6,3))
+    plt.imshow(gray,cmap="gray")
+    plt.title(f"{i} | expected: {exp}")
+    plt.axis("off")
+    plt.show()
+
+
+# ============================================
+# ÁTLAG PONTOSSÁG
+# ============================================
 
 print("\nEMNIST SZÓ TESZT")
 print("========================================")
@@ -297,14 +351,43 @@ print("Tesseract :",round(np.mean(acc_tess)*100,2),"%")
 print("docTR     :",round(np.mean(acc_doctr)*100,2),"%")
 
 
-plt.figure(figsize=(12,4))
-plt.imshow(gray,cmap="gray")
-plt.title("Generált szó")
-plt.axis("off")
+# ============================================
+# CSV MENTÉS
+# ============================================
 
-plt.figure(figsize=(12,4))
-plt.imshow(binimg,cmap="gray")
-plt.title("Binarizált OCR kép")
-plt.axis("off")
+import csv
 
-plt.show()
+csv_path=os.path.join(output_dir,"results.csv")
+
+with open(csv_path,"w",newline="",encoding="utf-8") as f:
+
+    writer=csv.writer(f)
+
+    writer.writerow([
+        "id",
+        "expected",
+        "easyocr",
+        "tesseract",
+        "doctr",
+        "sim_easy",
+        "sim_tess",
+        "sim_doctr",
+        "image"
+    ])
+
+    for r in results:
+
+        writer.writerow([
+            r["id"],
+            r["expected"],
+            r["easyocr"],
+            r["tesseract"],
+            r["doctr"],
+            r["sim_easy"],
+            r["sim_tess"],
+            r["sim_doctr"],
+            r["image"]
+        ])
+
+print("\nMentve ide:")
+print(csv_path)
