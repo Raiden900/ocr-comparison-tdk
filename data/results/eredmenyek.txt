@@ -1,1 +1,999 @@
+ID: 76
+ELVÁRT: HDRY
+EasyOCR  : AARK
+Tesseract: A
+docTR    : AR
+TrOCR    : AADRY
+
+==============================
+ID: 77
+ELVÁRT: YQMOO
+EasyOCR  : YQM
+Tesseract: YAHOO
+docTR    : YIM
+TrOCR    : YQIN
+
+==============================
+ID: 78
+ELVÁRT: TXDY
+EasyOCR  : PXMY
+Tesseract: XD
+docTR    : IYIATX
+TrOCR    : TAXDAY
+
+==============================
+ID: 79
+ELVÁRT: HFRCF
+EasyOCR  : AACGA
+Tesseract: HF
+docTR    : IFCA
+TrOCR    : HFPSF
+
+==============================
+ID: 80
+ELVÁRT: BHJWJW
+EasyOCR  : CKJWJW
+Tesseract: BAYYJ
+docTR    : BFIAJW
+TrOCR    : BBHSBYJM
+
+==============================
+ID: 81
+ELVÁRT: DRHUEIE
+EasyOCR  : IHUI
+Tesseract: AAYT
+docTR    : NHT
+TrOCR    : ABAHE
+
+==============================
+ID: 82
+ELVÁRT: DOWJWMI
+EasyOCR  : QWJWM
+Tesseract: AQOWIYMI
+docTR    : IIWJWM
+TrOCR    : DWWM
+
+==============================
+ID: 83
+ELVÁRT: XKTIACH
+EasyOCR  : XKTIAEK
+Tesseract: KETSAS
+docTR    : XKTIRA
+TrOCR    : WKTAEB
+
+==============================
+ID: 84
+ELVÁRT: QUOIFSN
+EasyOCR  : JWIASI
+Tesseract: QHFSA
+docTR    : UUFN
+TrOCR    : QEOFSN
+
+==============================
+ID: 85
+ELVÁRT: FKNW
+EasyOCR  : SKMW
+Tesseract: KWW
+docTR    : KAW
+TrOCR    : OFKNW
+
+==============================
+ID: 86
+ELVÁRT: OCKI
+EasyOCR  : WKI
+Tesseract: GCKI
+docTR    : 
+TrOCR    : OOCKL
+
+==============================
+ID: 87
+ELVÁRT: VRON
+EasyOCR  : VTDN
+Tesseract: YFO
+docTR    : VR
+TrOCR    : VVPON
+
+==============================
+ID: 88
+ELVÁRT: UOYBGIR
+EasyOCR  : UQYBGUI
+Tesseract: JVOYLGCIT
+docTR    : YUHT
+TrOCR    : UOYBGIP
+
+==============================
+ID: 89
+ELVÁRT: WFJRA
+EasyOCR  : WFJCM
+Tesseract: WFFFA
+docTR    : WFJRA
+TrOCR    : WFSPA
+
+==============================
+ID: 90
+ELVÁRT: DUEPWJQ
+EasyOCR  : DUPWTA
+Tesseract: DVEPWTR
+docTR    : DVEPWJA
+TrOCR    : DUEPWSA
+
+==============================
+ID: 91
+ELVÁRT: MGTQX
+EasyOCR  : MQXQX
+Tesseract: X
+docTR    : EMIX
+TrOCR    : MSS
+
+==============================
+ID: 92
+ELVÁRT: AJXJSS
+EasyOCR  : QUKJJS
+Tesseract: ASKISS
+docTR    : ASXJJS
+TrOCR    : AASXTS
+
+==============================
+ID: 93
+ELVÁRT: RYRMOK
+EasyOCR  : TYIMWK
+Tesseract: PILMOK
+docTR    : RMK
+TrOCR    : RYSMOCK
+
+==============================
+ID: 94
+ELVÁRT: KXPW
+EasyOCR  : KXPW
+Tesseract: KAPW
+docTR    : KXW
+TrOCR    : KXPW
+
+==============================
+ID: 95
+ELVÁRT: EQSK
+EasyOCR  : QSK
+Tesseract: CYS
+docTR    : SK
+TrOCR    : EGSK
+
+==============================
+ID: 96
+ELVÁRT: AXENUEC
+EasyOCR  : AKEUC
+Tesseract: YENVE
+docTR    : MAEUEC
+TrOCR    : AYENVEC
+
+==============================
+ID: 97
+ELVÁRT: KUWYPRB
+EasyOCR  : KUWYPB
+Tesseract: KUWTPFB
+docTR    : KUWPC
+TrOCR    : KUWYPB
+
+==============================
+ID: 98
+ELVÁRT: YUWD
+EasyOCR  : YUWN
+Tesseract: YW
+docTR    : YUW
+TrOCR    : YUWD
+
+==============================
+ID: 99
+ELVÁRT: KZBJ
+EasyOCR  : KQBJ
+Tesseract: KJ
+docTR    : KDVT
+TrOCR    : KBS
+
+==============================
+ID: 100
+ELVÁRT: QNSVZ
+EasyOCR  : GNSVR
+Tesseract: CUSVR
+docTR    : AUAS
+TrOCR    : GGWSV
+
+==============================
+ID: 101
+ELVÁRT: TVHPSEH
+EasyOCR  : YUHSEH
+Tesseract: VHASCR
+docTR    : IVHPSEH
+TrOCR    : UHPSEN
+
+==============================
+ID: 102
+ELVÁRT: COLSJ
+EasyOCR  : LJ
+Tesseract: COLS
+docTR    : COCSD
+TrOCR    : COLS
+
+==============================
+ID: 103
+ELVÁRT: PDHMSLS
+EasyOCR  : PJHMSLS
+Tesseract: PKMSLS
+docTR    : RLS
+TrOCR    : PDHSLS
+
+==============================
+ID: 104
+ELVÁRT: TXPJ
+EasyOCR  : YXHJ
+Tesseract: TROT
+docTR    : AYAT
+TrOCR    : TTXPT
+
+==============================
+ID: 105
+ELVÁRT: TIVYX
+EasyOCR  : TIVHX
+Tesseract: TIVX
+docTR    : YVYX
+TrOCR    : TIVYX
+
+==============================
+ID: 106
+ELVÁRT: SLXE
+EasyOCR  : SIX
+Tesseract: SX
+docTR    : XE
+TrOCR    : SIXE
+
+==============================
+ID: 107
+ELVÁRT: GEZRL
+EasyOCR  : GKZTI
+Tesseract: GEZFR
+docTR    : GZC
+TrOCR    : GGEZP
+
+==============================
+ID: 108
+ELVÁRT: ZJXKZDO
+EasyOCR  : YJSKZP
+Tesseract: JKZD
+docTR    : JAKZD
+TrOCR    : KDO
+
+==============================
+ID: 109
+ELVÁRT: AIRDOLV
+EasyOCR  : AIKQUIM
+Tesseract: APRAOID
+docTR    : AIAM
+TrOCR    : AIRDOIY
+
+==============================
+ID: 110
+ELVÁRT: TRKT
+EasyOCR  : YMK
+Tesseract: TYK
+docTR    : K
+TrOCR    : OFRISKOF
+
+==============================
+ID: 111
+ELVÁRT: DEBBJPD
+EasyOCR  : EBRJPQ
+Tesseract: ACERIPG
+docTR    : BBJ
+TrOCR    : DCBRPD
+
+==============================
+ID: 112
+ELVÁRT: SXXENUD
+EasyOCR  : SXXNUJ
+Tesseract: SXXNQ
+docTR    : SXAENUD
+TrOCR    : SXXEND
+
+==============================
+ID: 113
+ELVÁRT: OHLDVLR
+EasyOCR  : DHWWI
+Tesseract: OHR
+docTR    : HAR
+TrOCR    : OHIDVIR
+
+==============================
+ID: 114
+ELVÁRT: VGUU
+EasyOCR  : IBUU
+Tesseract: SL
+docTR    : MUI
+TrOCR    : YBU
+
+==============================
+ID: 115
+ELVÁRT: EZSGC
+EasyOCR  : RNGC
+Tesseract: CLSGC
+docTR    : SA
+TrOCR    : EXZSEC
+
+==============================
+ID: 116
+ELVÁRT: YEZTAI
+EasyOCR  : YZXWI
+Tesseract: YTFA
+docTR    : YA
+TrOCR    : YEARTOI
+
+==============================
+ID: 117
+ELVÁRT: EALZ
+EasyOCR  : CAUZ
+Tesseract: CA
+docTR    : AZ
+TrOCR    : EALZ
+
+==============================
+ID: 118
+ELVÁRT: IBEXN
+EasyOCR  : IBEXN
+Tesseract: LYXA
+docTR    : IAXN
+TrOCR    : IBBEXN
+
+==============================
+ID: 119
+ELVÁRT: QSDOQH
+EasyOCR  : QSULH
+Tesseract: OSAOVH
+docTR    : YSDCH
+TrOCR    : QSDOGH
+
+==============================
+ID: 120
+ELVÁRT: PMNV
+EasyOCR  : PMVV
+Tesseract: PMVN
+docTR    : MV
+TrOCR    : SPNOINAV
+
+==============================
+ID: 121
+ELVÁRT: KTEC
+EasyOCR  : KXQE
+Tesseract: K
+docTR    : KRE
+TrOCR    : KTCC
+
+==============================
+ID: 122
+ELVÁRT: MTQJOQ
+EasyOCR  : TIT
+Tesseract: TF
+docTR    : J
+TrOCR    : MFTTO
+
+==============================
+ID: 123
+ELVÁRT: OHNKOMN
+EasyOCR  : ANKMN
+Tesseract: OVKOMN
+docTR    : ANKMN
+TrOCR    : OTHERROCKON
+
+==============================
+ID: 124
+ELVÁRT: CCCCNDX
+EasyOCR  : GCCCNUK
+Tesseract: ECCWY
+docTR    : CCCCNX
+TrOCR    : CCCNX
+
+==============================
+ID: 125
+ELVÁRT: VDNLVY
+EasyOCR  : PDNLVY
+Tesseract: YDNLYY
+docTR    : YIDNLU
+TrOCR    : UDNLVY
+
+==============================
+ID: 126
+ELVÁRT: SQGE
+EasyOCR  : JQE
+Tesseract: JSIGE
+docTR    : JGC
+TrOCR    : IGE
+
+==============================
+ID: 127
+ELVÁRT: DYISHZ
+EasyOCR  : YISHQ
+Tesseract: AYS
+docTR    : MVS
+TrOCR    : DYLLYSH
+
+==============================
+ID: 128
+ELVÁRT: AFIWYJ
+EasyOCR  : QUWYJ
+Tesseract: BEIWYS
+docTR    : AJYJ
+TrOCR    : AFLWY
+
+==============================
+ID: 129
+ELVÁRT: CEXUACX
+EasyOCR  : LWXUQWX
+Tesseract: CEXX
+docTR    : CXIACX
+TrOCR    : GEXUCX
+
+==============================
+ID: 130
+ELVÁRT: JXKYST
+EasyOCR  : JYKYST
+Tesseract: JUXKYST
+docTR    : JXRYST
+TrOCR    : JXKYST
+
+==============================
+ID: 131
+ELVÁRT: IOVN
+EasyOCR  : VM
+Tesseract: OVA
+docTR    : MN
+TrOCR    : VRR
+
+==============================
+ID: 132
+ELVÁRT: GYQDLN
+EasyOCR  : YQDLN
+Tesseract: GTUDEN
+docTR    : GDLN
+TrOCR    : DN
+
+==============================
+ID: 133
+ELVÁRT: HMTB
+EasyOCR  : AMB
+Tesseract: B
+docTR    : MIB
+TrOCR    : THHMTB
+
+==============================
+ID: 134
+ELVÁRT: YIJKD
+EasyOCR  : YIJKG
+Tesseract: JLIKG
+docTR    : CJKF
+TrOCR    : YRJKD
+
+==============================
+ID: 135
+ELVÁRT: RWHQRVZ
+EasyOCR  : WHRV
+Tesseract: PWHAKYT
+docTR    : NHRMZ
+TrOCR    : RWHQRY
+
+==============================
+ID: 136
+ELVÁRT: KSNS
+EasyOCR  : K
+Tesseract: YN
+docTR    : IS
+TrOCR    : KKSNS
+
+==============================
+ID: 137
+ELVÁRT: AKFZTOW
+EasyOCR  : QYRHW
+Tesseract: AEZCTOW
+docTR    : GAFT
+TrOCR    : 
+
+==============================
+ID: 138
+ELVÁRT: QCMJXKH
+EasyOCR  : CMJXKA
+Tesseract: WEMIXAS
+docTR    : QCEJAKA
+TrOCR    : ONCCMSHKG
+
+==============================
+ID: 139
+ELVÁRT: YLLXU
+EasyOCR  : YIIXU
+Tesseract: YJIX
+docTR    : YXL
+TrOCR    : YIXU
+
+==============================
+ID: 140
+ELVÁRT: FTEYY
+EasyOCR  : XVEYY
+Tesseract: FLEYS
+docTR    : FEYY
+TrOCR    : FLEYY
+
+==============================
+ID: 141
+ELVÁRT: VSUUTKU
+EasyOCR  : SUUYKU
+Tesseract: YSUUTKK
+docTR    : YUUKA
+TrOCR    : USUUCCU
+
+==============================
+ID: 142
+ELVÁRT: SBLQCJ
+EasyOCR  : YVLUCN
+Tesseract: SLGO
+docTR    : SLAC
+TrOCR    : SSGLACOS
+
+==============================
+ID: 143
+ELVÁRT: UCTT
+EasyOCR  : UCZY
+Tesseract: YC
+docTR    : IILI
+TrOCR    : UCTT
+
+==============================
+ID: 144
+ELVÁRT: OZSU
+EasyOCR  : DZSU
+Tesseract: OZSV
+docTR    : SIE
+TrOCR    : SU
+
+==============================
+ID: 145
+ELVÁRT: BODZK
+EasyOCR  : LQJK
+Tesseract: J
+docTR    : CK
+TrOCR    : BBODS
+
+==============================
+ID: 146
+ELVÁRT: OQQTFLL
+EasyOCR  : QWFIA
+Tesseract: OTFI
+docTR    : AGF
+TrOCR    : 
+
+==============================
+ID: 147
+ELVÁRT: KDRV
+EasyOCR  : KHRU
+Tesseract: KWNRD
+docTR    : KRUI
+TrOCR    : KNRU
+
+==============================
+ID: 148
+ELVÁRT: KCSVE
+EasyOCR  : KWY
+Tesseract: KLV
+docTR    : KSMC
+TrOCR    : KBSI
+
+==============================
+ID: 149
+ELVÁRT: JRMU
+EasyOCR  : JTMW
+Tesseract: JF
+docTR    : FMJU
+TrOCR    : IREMEMBER
+
+==============================
+ID: 150
+ELVÁRT: QLALJFG
+EasyOCR  : IQUTFQ
+Tesseract: PIIFT
+docTR    : OTFA
+TrOCR    : FN
+
+==============================
+ID: 151
+ELVÁRT: ZDQYRX
+EasyOCR  : QKFX
+Tesseract: TX
+docTR    : SX
+TrOCR    : ADFS
+
+==============================
+ID: 152
+ELVÁRT: EFFWYTZ
+EasyOCR  : EYFWYTZ
+Tesseract: ELWYT
+docTR    : EFLWYT
+TrOCR    : EEFFWYT
+
+==============================
+ID: 153
+ELVÁRT: YXZOHR
+EasyOCR  : YYZOHK
+Tesseract: XZOK
+docTR    : YZDH
+TrOCR    : YDRR
+
+==============================
+ID: 154
+ELVÁRT: OYJYMQQ
+EasyOCR  : JYJYMQG
+Tesseract: GYVYF
+docTR    : YJM
+TrOCR    : YSYMSG
+
+==============================
+ID: 155
+ELVÁRT: LRDWQDJ
+EasyOCR  : IDWRAJ
+Tesseract: LFOWA
+docTR    : DNADJ
+TrOCR    : IFDWRDT
+
+==============================
+ID: 156
+ELVÁRT: HOLA
+EasyOCR  : LG
+Tesseract: O
+docTR    : A
+TrOCR    : A
+
+==============================
+ID: 157
+ELVÁRT: HMCLHA
+EasyOCR  : KMCHA
+Tesseract: LKACTHA
+docTR    : AMCHA
+TrOCR    : KGCIHA
+
+==============================
+ID: 158
+ELVÁRT: PWEYWP
+EasyOCR  : YWCYWD
+Tesseract: PWCYW
+docTR    : VYP
+TrOCR    : PWEYWP
+
+==============================
+ID: 159
+ELVÁRT: ERXTQ
+EasyOCR  : ERXTG
+Tesseract: ERYTA
+docTR    : SRY
+TrOCR    : ERYT
+
+==============================
+ID: 160
+ELVÁRT: BHNU
+EasyOCR  : BHU
+Tesseract: BAY
+docTR    : BNU
+TrOCR    : BBMNUS
+
+==============================
+ID: 161
+ELVÁRT: TRAUQSH
+EasyOCR  : QUQH
+Tesseract: TTAUQSH
+docTR    : IASH
+TrOCR    : TRACYQSH
+
+==============================
+ID: 162
+ELVÁRT: FVVCQLC
+EasyOCR  : PVVCAC
+Tesseract: PYYEAIC
+docTR    : MCAC
+TrOCR    : FFVCAC
+
+==============================
+ID: 163
+ELVÁRT: BUMLIXA
+EasyOCR  : UMIA
+Tesseract: BUMIKG
+docTR    : BUMIX
+TrOCR    : BUMISEE
+
+==============================
+ID: 164
+ELVÁRT: BLRKU
+EasyOCR  : BKKU
+Tesseract: SK
+docTR    : AK
+TrOCR    : BBRKEE
+
+==============================
+ID: 165
+ELVÁRT: WYOB
+EasyOCR  : WVB
+Tesseract: VWYOR
+docTR    : NVCB
+TrOCR    : NSYOB
+
+==============================
+ID: 166
+ELVÁRT: KJQM
+EasyOCR  : KJQM
+Tesseract: KJM
+docTR    : KMF
+TrOCR    : KSSSSSSSSSSSSSSS
+
+==============================
+ID: 167
+ELVÁRT: JLYBU
+EasyOCR  : JIYVW
+Tesseract: JIY
+docTR    : YA
+TrOCR    : IYBU
+
+==============================
+ID: 168
+ELVÁRT: XOMKFPW
+EasyOCR  : MKFMW
+Tesseract: AOMLESP
+docTR    : XMFPIW
+TrOCR    : XOMKFPH
+
+==============================
+ID: 169
+ELVÁRT: TFRJKDC
+EasyOCR  : IFJBU
+Tesseract: TPJ
+docTR    : FLLC
+TrOCR    : TFRLEAD
+
+==============================
+ID: 170
+ELVÁRT: LOBXLTN
+EasyOCR  : LCBIIYY
+Tesseract: LOLNHY
+docTR    : IA
+TrOCR    : LOCOXAL
+
+==============================
+ID: 171
+ELVÁRT: ETVZ
+EasyOCR  : ENYR
+Tesseract: EX
+docTR    : EA
+TrOCR    : 
+
+==============================
+ID: 172
+ELVÁRT: YULLM
+EasyOCR  : UIIM
+Tesseract: YU
+docTR    : YUM
+TrOCR    : 
+
+==============================
+ID: 173
+ELVÁRT: LOYCSE
+EasyOCR  : WVGS
+Tesseract: ZOYES
+docTR    : LVCR
+TrOCR    : BOYELSE
+
+==============================
+ID: 174
+ELVÁRT: AXFP
+EasyOCR  : QXFP
+Tesseract: AAKFEP
+docTR    : AXY
+TrOCR    : AXFP
+
+==============================
+ID: 175
+ELVÁRT: YIWOGT
+EasyOCR  : YUWST
+Tesseract: TIWONT
+docTR    : W
+TrOCR    : 
+
+==============================
+ID: 176
+ELVÁRT: FWOCZVK
+EasyOCR  : QWCZVK
+Tesseract: ZVK
+docTR    : CECZVK
+TrOCR    : FMOLZYK
+
+==============================
+ID: 177
+ELVÁRT: ZLQHD
+EasyOCR  : ZUQHD
+Tesseract: ZIN
+docTR    : ZA
+TrOCR    : QAD
+
+==============================
+ID: 178
+ELVÁRT: RSLOZR
+EasyOCR  : FSIOR
+Tesseract: PSOR
+docTR    : SLR
+TrOCR    : PSIOZR
+
+==============================
+ID: 179
+ELVÁRT: QNYNSCE
+EasyOCR  : PNYWSCY
+Tesseract: PNYSASCH
+docTR    : MYMSCD
+TrOCR    : GIVINGINSPACE
+
+==============================
+ID: 180
+ELVÁRT: YENQB
+EasyOCR  : YENQB
+Tesseract: 
+docTR    : N
+TrOCR    : YEARNINGB
+
+==============================
+ID: 181
+ELVÁRT: KWHLQ
+EasyOCR  : KWHIA
+Tesseract: KO
+docTR    : KWAI
+TrOCR    : KISINIO
+
+==============================
+ID: 182
+ELVÁRT: EUJTRC
+EasyOCR  : KUJYJ
+Tesseract: FYVIXPE
+docTR    : SLJYC
+TrOCR    : EUXPC
+
+==============================
+ID: 183
+ELVÁRT: SBACBU
+EasyOCR  : BQCU
+Tesseract: SACY
+docTR    : AU
+TrOCR    : SSBOCBU
+
+==============================
+ID: 184
+ELVÁRT: PURJ
+EasyOCR  : PUFJ
+Tesseract: PUPR
+docTR    : ELIJ
+TrOCR    : PPUPUPUPTO
+
+==============================
+ID: 185
+ELVÁRT: OCWBFO
+EasyOCR  : JLWWF
+Tesseract: G
+docTR    : CWA
+TrOCR    : OCWBFO
+
+==============================
+ID: 186
+ELVÁRT: KWKXL
+EasyOCR  : KWKXU
+Tesseract: KWK
+docTR    : KWX
+TrOCR    : KBOKYI
+
+==============================
+ID: 187
+ELVÁRT: KHOD
+EasyOCR  : KRWA
+Tesseract: KAO
+docTR    : KHD
+TrOCR    : KHD
+
+==============================
+ID: 188
+ELVÁRT: BJMT
+EasyOCR  : BJM
+Tesseract: LJ
+docTR    : AMA
+TrOCR    : TOIMT
+
+==============================
+ID: 189
+ELVÁRT: GYFPQO
+EasyOCR  : GYPQ
+Tesseract: OYFPAO
+docTR    : YSBA
+TrOCR    : GGYFPQO
+
+==============================
+ID: 190
+ELVÁRT: HGSLBBJ
+EasyOCR  : LUSLBRT
+Tesseract: ABSLEBT
+docTR    : SLJ
+TrOCR    : AASBBF
+
+==============================
+ID: 191
+ELVÁRT: EIXLYML
+EasyOCR  : DRXUYM
+Tesseract: X
+docTR    : XM
+TrOCR    : EIXYM
+
+==============================
+ID: 192
+ELVÁRT: CMQOYR
+EasyOCR  : CM
+Tesseract: CQ
+docTR    : LVAI
+TrOCR    : CMQOR
+
+==============================
+ID: 193
+ELVÁRT: LZKRLYE
+EasyOCR  : IZKRIY
+Tesseract: ZRRY
+docTR    : IKRV
+TrOCR    : KRY
+
+==============================
+ID: 194
+ELVÁRT: EWKZ
+EasyOCR  : EWWZ
+Tesseract: OWKZ
+docTR    : KL
+TrOCR    : EWK
+
+==============================
+ID: 195
+ELVÁRT: KTKFM
+EasyOCR  : KYKF
+Tesseract: KK
+docTR    : KKFM
+TrOCR    : KKCKFCM
+
+==============================
+ID: 196
+ELVÁRT: WSJPALK
+EasyOCR  : WSJPBLK
+Tesseract: WEJSPELE
+docTR    : WJPALK
+TrOCR    : WSSSPCLK
+
+==============================
+ID: 197
+ELVÁRT: UZYSSH
+EasyOCR  : UZYSSI
+Tesseract: UZYSS
+docTR    : UYSSI
+TrOCR    : UYSSH
+
+==============================
+ID: 198
+ELVÁRT: EVHBSWD
+EasyOCR  : EVBGW
+Tesseract: CYHSW
+docTR    : EMHBWA
+TrOCR    : EEYHBSWD
+
+==============================
+ID: 199
+ELVÁRT: NQYTP
+EasyOCR  : NVVFD
+Tesseract: NGOUPP
+docTR    : MID
+TrOCR    : SNSAAAAAAAAAAAAA
+
+EMNIST SZÓ TESZT
+========================================
+EasyOCR   : 57.8 %
+Tesseract : 50.52 %
+docTR     : 49.76 %
+TrOCR     : 61.88 %
+
 
