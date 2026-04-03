@@ -1,4 +1,4 @@
-# OCR Comparison – TDK Project
+# OCR Comparison –
 
 Szövegfelismerő algoritmusok összehasonlító vizsgálata valós környezetben készült dokumentumképeken
 
@@ -42,9 +42,8 @@ A program:
 - OpenCV
 - EasyOCR
 - Tesseract OCR
-- PaddleOCR
-- KerasOCR (opcionális)
-- docTR (opcionális)
+- docTR
+- TrOCR
 - NumPy
 - Matplotlib
 
