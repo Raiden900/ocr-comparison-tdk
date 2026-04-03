@@ -1,0 +1,431 @@
+OCR 3 teszt eredmények:
+
+
+Szavak:
+1. IMG_9087.jpeg :
+    1. EasyOCR PROC         ->  94.44%
+    2. Tesseract PROC       ->  90.00%
+    3. EasyOCR RAW          ->  82.05%
+    4. docTR PROC           ->  81.08%
+    5. Tesseract RAW        ->  72.22%
+    6. docTR RAW            ->  68.42%
+2. IMG_9088 :
+    1. Tesseract PROC       -> 100.00%
+    2. EasyOCR PROC         ->  75.68%
+    3. docTR PROC           ->  71.79%
+    4. docTR RAW            ->  71.11%
+    5. EasyOCR RAW          ->  70.27%
+    6. Tesseract RAW        ->  29.27%
+3. IMG_9089 :
+    1. Tesseract PROC       -> 100.00%
+    2. EasyOCR PROC         ->  97.67%
+    3. Tesseract RAW        ->  97.67%
+    4. EasyOCR RAW          ->  93.02%
+    5. docTR PROC           ->  89.36%
+    6. docTR RAW            ->  85.11%
+4. IMG_9090 :
+    1. docTR RAW            ->  87.50%
+    2. Tesseract PROC       ->  84.21%
+    3. EasyOCR PROC         ->  83.87%
+    4. EasyOCR RAW          ->  75.68%
+    5. Tesseract RAW        ->  70.59%
+    6. docTR PROC           ->  66.67%
+5. IMG_9091 :
+    1. EasyOCR RAW          ->  96.15%
+    2. Tesseract RAW        ->  92.59%
+    3. docTR PROC           ->  92.59%
+    4. docTR RAW            ->  88.89%
+    5. EasyOCR PROC         ->  83.02%
+    6. Tesseract PROC       ->  71.43%
+6. 6. IMG_9092 :
+    1. Tesseract PROC       ->  93.33%
+    2. EasyOCR PROC         ->  89.36%
+    3. docTR RAW            ->  85.11%
+    4. docTR PROC           ->  85.11%
+    5. EasyOCR RAW          ->  81.63%
+    6. Tesseract RAW        ->  79.25%
+7. 7. IMG_9093 :
+    1. Tesseract PROC       ->  96.00%
+    2. docTR RAW            ->  87.50%
+    3. EasyOCR PROC         ->  85.19%
+    4. docTR PROC           ->  81.48%
+    5. Tesseract RAW        ->  70.37%
+    6. EasyOCR RAW          ->  65.67%
+8. 8. IMG_9094 :
+    1. docTR RAW            ->  87.88%
+    2. Tesseract PROC       ->  85.29%
+    3. EasyOCR PROC         ->  79.41%
+    4. docTR PROC           ->  69.23%
+    5. Tesseract RAW        ->  62.69%
+    6. EasyOCR RAW          ->  57.14%
+9. 9. IMG_9095 :
+    1. docTR RAW            -> 100.00%
+    2. Tesseract PROC       ->  91.53%
+    3. EasyOCR PROC         ->  87.10%
+    4. docTR PROC           ->  84.38%
+    5. EasyOCR RAW          ->  81.25%
+    6. Tesseract RAW        ->  41.51%
+10. 10. IMG_9096 :
+    1. docTR PROC           ->  88.00%
+    2. Tesseract PROC       ->  87.27%
+    3. EasyOCR RAW          ->  83.02%
+    4. docTR RAW            ->  77.55%
+    5. EasyOCR PROC         ->  73.08%
+    6. Tesseract RAW        ->  49.06%
+11. 11. IMG_9097:
+    1. EasyOCR RAW          ->  80.00%
+    2. docTR RAW            ->  73.68%
+    3. EasyOCR PROC         ->  72.22%
+    4. Tesseract PROC       ->  68.42%
+    5. docTR PROC           ->  58.54%
+    6. Tesseract RAW        ->  55.81%
+12. 12. IMG_9098:
+    1. Tesseract PROC       ->  96.15%
+    2. docTR RAW            ->  96.15%
+    3. docTR PROC           ->  89.80%
+    4. EasyOCR PROC         ->  83.02%
+    5. Tesseract RAW        ->  79.17%
+    6. EasyOCR RAW          ->  66.67%
+13. 13. IMG_9099:
+    1. Tesseract PROC       ->  88.37%
+    2. docTR RAW            ->  76.92%
+    3. docTR PROC           ->  73.17%
+    4. EasyOCR PROC         ->  69.57%
+    5. Tesseract RAW        ->  68.09%
+    6. EasyOCR RAW          ->  68.00%
+14. 14. IMG_9100:
+    1. docTR RAW            ->  95.24%
+    2. Tesseract PROC       ->  93.33%
+    3. EasyOCR PROC         ->  84.44%
+    4. docTR PROC           ->  79.07%
+    5. Tesseract RAW        ->  71.11%
+    6. EasyOCR RAW          ->  56.14%
+15. 15. IMG_9101:
+    1. Tesseract PROC       -> 100.00%
+    2. Tesseract RAW        ->  97.30%
+    3. docTR RAW            ->  94.44%
+    4. docTR PROC           ->  72.73%
+    5. EasyOCR RAW          ->  70.00%
+    6. EasyOCR PROC         ->  55.00%
+16. 16. IMG_9102:
+    1. Tesseract PROC       ->  90.91%
+    2. EasyOCR RAW          ->  74.42%
+    3. EasyOCR PROC         ->  72.73%
+    4. docTR RAW            ->  65.38%
+    5. docTR PROC           ->  62.96%
+    6. Tesseract RAW        ->  52.83%
+17. 17. IMG_9103:
+    1. EasyOCR PROC         ->  82.14%
+    2. docTR RAW            ->  80.70%
+    3. Tesseract PROC       ->  80.00%
+    4. EasyOCR RAW          ->  79.31%
+    5. docTR PROC           ->  67.69%
+    6. Tesseract RAW        ->  58.67%
+18. 18. IMG_9104:
+    1. docTR RAW            -> 100.00%
+    2. docTR PROC           -> 100.00%
+    3. Tesseract PROC       ->  90.48%
+    4. EasyOCR PROC         ->  88.37%
+    5. EasyOCR RAW          ->  72.34%
+    6. Tesseract RAW        ->  63.64%
+19. 19. IMG_9105:
+    1. docTR RAW            ->  98.11%
+    2. Tesseract PROC       ->  90.57%
+    3. EasyOCR PROC         ->  82.76%
+    4. EasyOCR RAW          ->  78.69%
+    5. docTR PROC           ->  78.69%
+    6. Tesseract RAW        ->  75.00%
+20. 20. IMG_9106:
+    1. docTR RAW            ->  94.12%
+    2. EasyOCR RAW          ->  91.43%
+    3. Tesseract PROC       ->  91.43%
+    4. EasyOCR PROC         ->  87.50%
+    5. docTR PROC           ->  82.35%
+    6. Tesseract RAW        ->  61.11%
+
+Szavak + számok:
+1. 1. IMG_9107:
+    1. Tesseract PROC       ->  91.53%
+    2. docTR PROC           ->  88.24%
+    3. docTR RAW            ->  81.82%
+    4. EasyOCR RAW          ->  80.00%
+    5. EasyOCR PROC         ->  77.61%
+    6. Tesseract RAW        ->  73.24%
+2. 2. IMG_9108:
+    1. docTR RAW            ->  88.89%
+    2. Tesseract PROC       ->  82.93%
+    3. EasyOCR PROC         ->  76.19%
+    4. docTR PROC           ->  75.56%
+    5. Tesseract RAW        ->  75.00%
+    6. EasyOCR RAW          ->  53.57%
+3. 3. IMG_9109:
+    1. EasyOCR RAW          ->  86.49%
+    2. Tesseract PROC       ->  83.33%
+    3. EasyOCR PROC         ->  76.92%
+    4. docTR RAW            ->  73.91%
+    5. Tesseract RAW        ->  57.14%
+    6. docTR PROC           ->  47.46%
+4. 4. IMG_9110:
+    1. docTR RAW            ->  98.85%
+    2. docTR PROC           ->  91.30%
+    3. Tesseract PROC       ->  81.72%
+    4. EasyOCR PROC         ->  77.55%
+    5. Tesseract RAW        ->  73.33%
+    6. EasyOCR RAW          ->  71.84%
+5. 5. IMG_9111:
+    1. EasyOCR PROC         ->  82.61%
+    2. EasyOCR RAW          ->  80.00%
+    3. docTR PROC           ->  69.09%
+    4. Tesseract PROC       ->  65.22%
+    5. docTR RAW            ->  61.54%
+    6. Tesseract RAW        ->  44.90%
+6. 6. IMG_9112:
+    1. Tesseract RAW        ->  81.25%
+    2. docTR RAW            ->  75.68%
+    3. Tesseract PROC       ->  75.00%
+    4. EasyOCR PROC         ->  72.73%
+    5. docTR PROC           ->  58.82%
+    6. EasyOCR RAW          ->  58.54%
+7. 7. IMG_9113:
+    1. docTR PROC           ->  91.89%
+    2. EasyOCR PROC         ->  87.18%
+    3. docTR RAW            ->  87.18%
+    4. Tesseract PROC       ->  75.00%
+    5. EasyOCR RAW          ->  59.26%
+    6. Tesseract RAW        ->  42.86%
+8. 8. IMG_9114:
+    1. Tesseract PROC       ->  91.67%
+    2. docTR RAW            ->  89.36%
+    3. EasyOCR PROC         ->  87.50%
+    4. docTR PROC           ->  87.50%
+    5. EasyOCR RAW          ->  82.35%
+    6. Tesseract RAW        ->  81.63%
+9. 9. IMG_9117:
+    1. docTR RAW            ->  90.00%
+    2. docTR PROC           ->  75.56%
+    3. EasyOCR PROC         ->  60.00%
+    4. Tesseract PROC       ->  59.02%
+    5. EasyOCR RAW          ->  53.66%
+    6. Tesseract RAW        ->  35.09%
+10. 10. IMG_9118:
+    1. Tesseract PROC       -> 100.00%
+    2. EasyOCR PROC         ->  90.48%
+    3. EasyOCR RAW          ->  85.71%
+    4. docTR PROC           ->  80.00%
+    5. docTR RAW            ->  63.83%
+    6. Tesseract RAW        ->  54.05%
+11. 11. IMG_9119:
+    1. docTR RAW            ->  82.35%
+    2. EasyOCR RAW          ->  80.00%
+    3. Tesseract PROC       ->  76.60%
+    4. EasyOCR PROC         ->  66.67%
+    5. docTR PROC           ->  65.57%
+    6. Tesseract RAW        ->  54.17%
+12. 12. IMG_9120:
+    1. Tesseract PROC       ->  68.75%
+    2. Tesseract RAW        ->  58.06%
+    3. docTR PROC           ->  41.03%
+    4. docTR RAW            ->  38.89%
+    5. EasyOCR PROC         ->  37.84%
+    6. EasyOCR RAW          ->  34.15%
+13. 13. IMG_9121:
+    1. Tesseract PROC       ->  90.00%
+    2. EasyOCR PROC         ->  72.73%
+    3. Tesseract RAW        ->  71.43%
+    4. docTR RAW            ->  68.18%
+    5. docTR PROC           ->  60.00%
+    6. EasyOCR RAW          ->  58.82%
+14. 14. IMG_9122:
+    1. Tesseract PROC       ->  85.71%
+    2. EasyOCR PROC         ->  85.00%
+    3. docTR RAW            ->  80.00%
+    4. EasyOCR RAW          ->  66.67%
+    5. Tesseract RAW        ->  63.16%
+    6. docTR PROC           ->  62.50%
+15. 15. IMG_9123:
+    1. docTR RAW            ->  85.71%
+    2. docTR PROC           ->  77.78%
+    3. EasyOCR PROC         ->  72.22%
+    4. Tesseract PROC       ->  70.27%
+    5. EasyOCR RAW          ->  61.90%
+    6. Tesseract RAW        ->  32.43%
+16. 16. IMG_9124:
+    1. Tesseract PROC       ->  95.65%
+    2. Tesseract RAW        ->  81.63%
+    3. docTR PROC           ->  74.07%
+    4. EasyOCR PROC         ->  73.08%
+    5. docTR RAW            ->  70.18%
+    6. EasyOCR RAW          ->  67.80%
+17. 17. IMG_9125:
+    1. EasyOCR RAW          ->  97.56%
+    2. Tesseract PROC       ->  97.56%
+    3. EasyOCR PROC         ->  92.68%
+    4. docTR RAW            ->  85.71%
+    5. docTR PROC           ->  76.92%
+    6. Tesseract RAW        ->  51.16%
+18. 18. IMG_9126:
+    1. EasyOCR PROC         ->  77.42%
+    2. EasyOCR RAW          ->  57.14%
+    3. Tesseract PROC       ->  57.14%
+    4. docTR RAW            ->  44.44%
+    5. Tesseract RAW        ->  37.50%
+    6. docTR PROC           ->  36.84%
+19. 19. IMG_9127:
+    1. Tesseract PROC       ->  88.24%
+    2. docTR RAW            ->  85.71%
+    3. EasyOCR PROC         ->  66.67%
+    4. docTR PROC           ->  60.47%
+    5. EasyOCR RAW          ->  60.00%
+    6. Tesseract RAW        ->  52.94%
+20. 20. IMG_9128:
+    1. EasyOCR PROC         ->  89.36%
+    2. docTR PROC           ->  89.36%
+    3. Tesseract PROC       ->  88.89%
+    4. docTR RAW            ->  85.71%
+    5. EasyOCR RAW          ->  80.00%
+    6. Tesseract RAW        ->  72.34%
+
+Számok:
+1. 1. IMG_9203:
+    1. EasyOCR RAW          ->  90.91%
+    2. EasyOCR PROC         ->  90.91%
+    3. docTR PROC           ->  33.33%
+    4. Tesseract PROC       ->  20.00%
+    5. docTR RAW            ->  13.33%
+    6. Tesseract RAW        ->   0.00%
+2. 2. IMG_9204:
+    1. EasyOCR PROC         ->  80.00%
+    2. Tesseract PROC       ->  66.67%
+    3. EasyOCR RAW          ->  53.33%
+    4. docTR PROC           ->  26.09%
+    5. docTR RAW            ->  19.05%
+    6. Tesseract RAW        ->  16.67%
+3. 3. IMG_9205:
+    1. EasyOCR PROC         ->  61.54%
+    2. Tesseract PROC       ->  58.06%
+    3. EasyOCR RAW          ->  57.14%
+    4. docTR RAW            ->  46.15%
+    5. docTR PROC           ->  42.55%
+    6. Tesseract RAW        ->   7.14%
+4. 4. IMG_9206:
+    1. EasyOCR RAW          ->  93.33%
+    2. EasyOCR PROC         ->  85.71%
+    3. docTR RAW            ->  82.35%
+    4. Tesseract PROC       ->  66.67%
+    5. docTR PROC           ->  47.62%
+    6. Tesseract RAW        ->   0.00%
+5. 5. IMG_9207:
+    1. docTR PROC           ->  66.67%
+    2. EasyOCR PROC         ->  64.52%
+    3. docTR RAW            ->  51.61%
+    4. EasyOCR RAW          ->  33.96%
+    5. Tesseract RAW        ->  28.57%
+    6. Tesseract PROC       ->   0.00%
+6. 6. IMG_9208:
+    1. docTR RAW            ->  90.91%
+    2. EasyOCR PROC         ->  66.67%
+    3. docTR PROC           ->  55.42%
+    4. EasyOCR RAW          ->  48.78%
+    5. Tesseract PROC       ->  28.57%
+    6. Tesseract RAW        ->  17.95%
+7.  7. IMG_9209:
+    1. EasyOCR PROC         ->  73.33%
+    2. EasyOCR RAW          ->  54.55%
+    3. docTR RAW            ->  42.86%
+    4. docTR PROC           ->  40.00%
+    5. Tesseract PROC       ->  16.00%
+    6. Tesseract RAW        ->   9.52%
+8.  8. IMG_9210:
+    1. EasyOCR RAW          ->  72.73%
+    2. EasyOCR PROC         ->  72.73%
+    3. Tesseract PROC       ->  59.26%
+    4. docTR PROC           ->  56.41%
+    5. docTR RAW            ->  37.84%
+    6. Tesseract RAW        ->  14.81%
+9. 9. IMG_9211:
+    1. Tesseract PROC       ->  83.33%
+    2. EasyOCR RAW          ->  80.00%
+    3. EasyOCR PROC         ->  80.00%
+    4. docTR RAW            ->  36.36%
+    5. docTR PROC           ->  26.67%
+    6. Tesseract RAW        ->  15.38%
+10. 10. IMG_9212:
+    1. Tesseract PROC       -> 100.00%
+    2. EasyOCR PROC         ->  90.91%
+    3. EasyOCR RAW          ->  61.54%
+    4. docTR RAW            ->  36.36%
+    5. docTR PROC           ->  18.18%
+    6. Tesseract RAW        ->   0.00%
+11. 11. IMG_9213:
+    1. Tesseract PROC       ->  83.33%
+    2. EasyOCR PROC         ->  58.82%
+    3. docTR RAW            ->  57.14%
+    4. docTR PROC           ->  57.14%
+    5. EasyOCR RAW          ->  17.39%
+    6. Tesseract RAW        ->   0.00%
+12. 12. IMG_9215:
+    1. EasyOCR PROC         ->  76.92%
+    2. EasyOCR RAW          ->  71.43%
+    3. Tesseract PROC       ->  54.55%
+    4. Tesseract RAW        ->  20.00%
+    5. docTR PROC           ->  16.67%
+    6. docTR RAW            ->   0.00%
+13. 13. IMG_9216:
+    1. EasyOCR PROC         ->  50.00%
+    2. EasyOCR RAW          ->  32.00%
+    3. Tesseract PROC       ->  15.38%
+    4. docTR PROC           ->  14.29%
+    5. docTR RAW            ->  12.90%
+    6. Tesseract RAW        ->  11.76%
+14. 14. IMG_9217:
+    1. EasyOCR PROC         ->  66.67%
+    2. EasyOCR RAW          ->  46.15%
+    3. Tesseract RAW        ->   0.00%
+    4. Tesseract PROC       ->   0.00%
+    5. docTR RAW            ->   0.00%
+    6. docTR PROC           ->   0.00%
+15. 15. IMG_9218:
+    1. EasyOCR PROC         ->  72.73%
+    2. EasyOCR RAW          ->  68.75%
+    3. Tesseract PROC       ->  55.17%
+    4. docTR PROC           ->  39.02%
+    5. docTR RAW            ->  30.43%
+    6. Tesseract RAW        ->  16.00%
+16. 16. IMG_9220:
+    1. Tesseract PROC       -> 100.00%
+    2. EasyOCR PROC         ->  80.00%
+    3. EasyOCR RAW          ->  44.44%
+    4. Tesseract RAW        ->  25.00%
+    5. docTR RAW            ->   0.00%
+    6. docTR PROC           ->   0.00%
+17. 17. IMG_9221:
+    1. EasyOCR RAW          ->  61.54%
+    2. EasyOCR PROC         ->  61.54%
+    3. docTR PROC           ->  40.00%
+    4. Tesseract RAW        ->  33.33%
+    5. Tesseract PROC       ->   0.00%
+    6. docTR RAW            ->   0.00%
+18. 18. IMG_9222:
+    1. Tesseract PROC       ->  64.52%
+    2. EasyOCR RAW          ->  63.41%
+    3. EasyOCR PROC         ->  52.38%
+    4. docTR RAW            ->  43.90%
+    5. docTR PROC           ->  40.82%
+    6. Tesseract RAW        ->   8.00%
+19. 19. IMG_9223:
+    1. EasyOCR RAW          ->  80.00%
+    2. EasyOCR PROC         ->  60.00%
+    3. Tesseract RAW        ->   0.00%
+    4. Tesseract PROC       ->   0.00%
+    5. docTR RAW            ->   0.00%
+    6. docTR PROC           ->   0.00%
+20. 20. IMG_9224:
+    1. EasyOCR RAW          ->  66.67%
+    2. EasyOCR PROC         ->  50.00%
+    3. Tesseract RAW        ->  36.36%
+    4. docTR PROC           ->  25.00%
+    5. docTR RAW            ->  10.53%
+    6. Tesseract PROC       ->   0.00%
+
+
+
