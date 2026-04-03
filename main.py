@@ -111,12 +111,15 @@ show(raw, "RAW")
 
 def enhance_for_ocr(bgr):
     gray = cv.cvtColor(bgr, cv.COLOR_BGR2GRAY)
-    gray = cv.GaussianBlur(gray, (5,5), 0)
+    gray = cv.medianBlur(gray, 3)
+    gray = cv.convertScaleAbs(gray, alpha=1.15, beta=0)
     _, binimg = cv.threshold(gray, 0, 255, cv.THRESH_BINARY + cv.THRESH_OTSU)
-    binimg = cv.morphologyEx(binimg, cv.MORPH_OPEN, np.ones((3,3), np.uint8), iterations=1)
     return gray, binimg
 
+
+
 gray, binimg = enhance_for_ocr(raw)
+show(gray, "PROC – szürke")
 show(binimg, "PROC")
 
 # --------------------------------------------------
