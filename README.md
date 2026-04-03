@@ -2,7 +2,7 @@
 
 Szövegfelismerő algoritmusok összehasonlító vizsgálata valós környezetben készült dokumentumképeken
 
-A projekt saját készítésű (telefonos) és nyilvános dataset képeken vizsgálja az OCR felismerés pontosságát.
+A projekt saját készítésű (telefonos) és EMNIST dataset képeken vizsgálja az OCR felismerés pontosságát.
 
 ---
 
