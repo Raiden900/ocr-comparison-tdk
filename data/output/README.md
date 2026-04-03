@@ -1,4 +1,5 @@
 # Processed images
+Google drive link a képekhez: https://drive.google.com/drive/folders/1T368R-00j2RmUDF0T77Rwya1tieLm0rU?usp=sharing
 
 Az algoritmus által előfeldolgozott képek kerülnek ide.
 
