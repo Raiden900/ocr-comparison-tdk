@@ -8,6 +8,7 @@ Tartalmazhat:
 - összehasonlítási eredményeket
 
  🏆 🏆 🏆
+ 
  EMNIST SZÓ TESZT VÉGEREDNMÉNY:
   1. TrOCR     : 61.88 %
   2. EasyOCR   : 57.8 % 
