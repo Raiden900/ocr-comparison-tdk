@@ -117,7 +117,6 @@ def enhance_for_ocr(bgr):
     return gray, binimg
 
 
-
 gray, binimg = enhance_for_ocr(raw)
 show(gray, "PROC – szürke")
 show(binimg, "PROC")
